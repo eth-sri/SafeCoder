@@ -1,0 +1,13 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.0.1
+transformers==4.37.1
+accelerate
+termcolor
+yamlize
+tabulate
+libcst
+pandas
+sacrebleu
+peft
+openai
+datasets
